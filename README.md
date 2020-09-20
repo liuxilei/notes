@@ -8,3 +8,4 @@
 - [获取时间戳](https://github.com/liuxilei/blog/issues/6)
 - [逻辑与&&逻辑或](https://github.com/liuxilei/blog/issues/7)
 - [slice()、substr()和substring()](https://github.com/liuxilei/blog/issues/8)
+- [URI编码方法（encodeURI()、encodeURIComponent、decodeURI和decodeURIComponent）](https://github.com/liuxilei/blog/issues/9)
