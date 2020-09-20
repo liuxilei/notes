@@ -9,3 +9,4 @@
 - [逻辑与&&逻辑或](https://github.com/liuxilei/blog/issues/7)
 - [slice()、substr()和substring()](https://github.com/liuxilei/blog/issues/8)
 - [URI编码方法（encodeURI()、encodeURIComponent、decodeURI和decodeURIComponent）](https://github.com/liuxilei/blog/issues/9)
+- [将小数舍入为整数(Math.ceil()、Math.floor()和Math.round())](https://github.com/liuxilei/blog/issues/10)
