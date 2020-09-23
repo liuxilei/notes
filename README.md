@@ -11,3 +11,4 @@
 - [URI编码方法（encodeURI()、encodeURIComponent、decodeURI和decodeURIComponent）](https://github.com/liuxilei/blog/issues/9)
 - [将小数舍入为整数(Math.ceil()、Math.floor()和Math.round())](https://github.com/liuxilei/blog/issues/10)
 - [random()方法](https://github.com/liuxilei/blog/issues/11)
+- [创建对象的几种模式](https://github.com/liuxilei/blog/issues/12)
