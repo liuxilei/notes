@@ -13,3 +13,4 @@
 - [random()方法](https://github.com/liuxilei/blog/issues/11)
 - [创建对象的几种模式](https://github.com/liuxilei/blog/issues/12)
 - [继承的几种方式](https://github.com/liuxilei/blog/issues/13)
+- [执行环境和作用域](https://github.com/liuxilei/blog/issues/14)
