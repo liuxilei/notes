@@ -15,3 +15,4 @@
 - [继承的几种方式](https://github.com/liuxilei/blog/issues/13)
 - [执行环境和作用域](https://github.com/liuxilei/blog/issues/14)
 - [闭包](https://github.com/liuxilei/blog/issues/15)
+- [私有变量](https://github.com/liuxilei/blog/issues/16)
