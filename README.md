@@ -16,3 +16,4 @@
 - [执行环境和作用域](https://github.com/liuxilei/blog/issues/14)
 - [闭包](https://github.com/liuxilei/blog/issues/15)
 - [私有变量](https://github.com/liuxilei/blog/issues/16)
+- [location对象](https://github.com/liuxilei/blog/issues/17)
