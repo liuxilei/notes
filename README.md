@@ -17,3 +17,4 @@
 - [闭包](https://github.com/liuxilei/notes/issues/15)
 - [私有变量](https://github.com/liuxilei/notes/issues/16)
 - [location对象](https://github.com/liuxilei/notes/issues/17)
+- [DOM操作节点方法](https://github.com/liuxilei/notes/issues/18)
