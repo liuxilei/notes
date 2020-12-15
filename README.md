@@ -21,3 +21,4 @@
 - [DOM扩展（元素遍历）](https://github.com/liuxilei/notes/issues/19)
 - [classList操作类名](https://github.com/liuxilei/notes/issues/20)
 - [坐标位置](https://github.com/liuxilei/notes/issues/21)
+- [修改键](https://github.com/liuxilei/notes/issues/22)
