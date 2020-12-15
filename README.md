@@ -20,3 +20,4 @@
 - [DOM操作节点方法](https://github.com/liuxilei/notes/issues/18)
 - [DOM扩展（元素遍历）](https://github.com/liuxilei/notes/issues/19)
 - [classList操作类名](https://github.com/liuxilei/notes/issues/20)
+- [坐标位置](https://github.com/liuxilei/notes/issues/21)
