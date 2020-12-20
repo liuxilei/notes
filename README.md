@@ -23,3 +23,4 @@
 - [坐标位置](https://github.com/liuxilei/notes/issues/21)
 - [修改键](https://github.com/liuxilei/notes/issues/22)
 - [contextmenu事件](https://github.com/liuxilei/notes/issues/23)
+- [选择文本](https://github.com/liuxilei/notes/issues/24)
