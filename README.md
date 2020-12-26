@@ -25,3 +25,4 @@
 - [contextmenu事件](https://github.com/liuxilei/notes/issues/23)
 - [选择文本](https://github.com/liuxilei/notes/issues/24)
 - [过滤输入:屏蔽字符](https://github.com/liuxilei/notes/issues/25)
+- [使用canvas绘图](https://github.com/liuxilei/notes/issues/26)
