@@ -7,6 +7,7 @@
 - [ECMAScript5中数组的迭代方法](https://github.com/liuxilei/notes/issues/5)
 - [获取时间戳](https://github.com/liuxilei/notes/issues/6)
 - [逻辑与&&逻辑或](https://github.com/liuxilei/notes/issues/7)
+- [call、apply、bind](https://github.com/liuxilei/notes/issues/30)
 - [slice()、substr()和substring()](https://github.com/liuxilei/notes/issues/8)
 - [URI编码方法（encodeURI()、encodeURIComponent、decodeURI和decodeURIComponent）](https://github.com/liuxilei/notes/issues/9)
 - [将小数舍入为整数(Math.ceil()、Math.floor()和Math.round())](https://github.com/liuxilei/notes/issues/10)
