@@ -31,3 +31,4 @@
 - [finally子句](https://github.com/liuxilei/notes/issues/28)
 - [JSON序列化选项](https://github.com/liuxilei/notes/issues/29)
 - [安全的类型检测](https://github.com/liuxilei/notes/issues/31)
+- [函数节流](https://github.com/liuxilei/notes/issues/32)
